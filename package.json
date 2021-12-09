@@ -1,0 +1,14 @@
+{
+  "name": "blaubeerbot",
+  "version": "1.0.0",
+  "description": "credits: https://qreepex.xyz",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "qreepex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
